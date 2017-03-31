@@ -2,7 +2,7 @@
 <html>
 <table>
 <tr>
-<th colspan="3">NIC</th>
+<th colspan="3"><marquee direction="right">NIC</marquee></th>
 </tr>
 <tr>
 <th>DETAIL</th>
