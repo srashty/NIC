@@ -1,6 +1,7 @@
 # NIC
 <html>
 <table>
+<img src="http://www.rajnandgaon.nic.in/Resources/Images/NIC-LOGO-S.jpg">
 <tr>
 <th colspan="3"><marquee direction="right">NIC</marquee></th>
 </tr>
