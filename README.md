@@ -3,7 +3,7 @@
 <table>
 <img src="http://www.rajnandgaon.nic.in/Resources/Images/NIC-LOGO-S.jpg">
 <tr>
-<th colspan="3"><marquee direction="right">NIC</marquee></th>
+<th colspan="5"><marquee direction="right">NIC</marquee></th>
 </tr>
 <tr>
 <th>TITLE</th>
@@ -101,6 +101,11 @@
 <td>found</td>
 <td>200</td>
 <td colspan="2">your webpage contains more than 100 backlinks like "http://www.sarkarinaukrisarch.in/ssc-recruitment/" , "http://www.ibps.in/"</td>
+</tr>
+<tr>
+<th>page rank</th>
+<td colspan="4"> pagerank of this page is 8.</td>
+</tr>
 <tr>
 <th>created on</th>
 <td colspan="2">7feb,1994</td>
@@ -115,3 +120,4 @@
 </tr>
 </table>
 </html>
+To go to the site click-----><a href="http://www.nic.in">NIC</a>
